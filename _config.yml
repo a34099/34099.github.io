@@ -1,10 +1,10 @@
 # Site settings
 title: 小王
-SEOTitle: 小王 - 让沟通更容易
+SEOTitle: 小王 - 意难平 也该平了
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+description: "没有亲身经历，怎会感同身受……"
+keyword: "没有亲身经历，怎会感同身受……"
 url: "https://klovien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
@@ -99,13 +99,10 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "小王",
+        title: "恋爱相册❤️记录生活",
         href: "http://xwkl.xyz/"
     },{
         title: "xw图床",
         href: "http://2104.cjl520.ga/"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     }
 ]
