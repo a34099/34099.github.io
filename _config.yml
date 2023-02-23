@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: xw21044@163.com
 description: "没有亲身经历，怎会感同身受……"
 keyword: "没有亲身经历，怎会感同身受……"
-url: "https://klovien.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+url: "https://klovien.github.io"          # 您的主机，用于绝对 URL
+baseurl: ""      # 例如，如果您的博客托管在“host/blog”上，则为“/blog”
+github_repo: "https://github.com/klovien/klovien.github.io.git" # 你的代码库
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -85,7 +85,7 @@ gitalk:
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: false                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
